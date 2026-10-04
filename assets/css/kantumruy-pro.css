@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/kantumruy-pro-0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/kantumruy-pro-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/kantumruy-pro-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/kantumruy-pro-3.ttf) format('truetype');
+}
